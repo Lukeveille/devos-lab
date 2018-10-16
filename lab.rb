@@ -32,6 +32,7 @@ class Lab
   end
 
   private
+  
   def calculate_area
     return @width * @height
   end
